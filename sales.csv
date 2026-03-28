@@ -1,0 +1,201 @@
+OrderID,Category,SubCategory,Sales,Profit,Quantity,Region,OrderDate
+1,Office Supplies,Tables,750.45,41.92,2,South,2023-01-01
+2,Furniture,Chairs,4850.73,-233.63,8,East,2023-01-02
+3,Office Supplies,Chairs,3601.52,-347.6,2,Central,2023-01-03
+4,Office Supplies,Phones,301.23,1381.06,4,Central,2023-01-04
+5,Furniture,Tables,2054.22,333.28,1,South,2023-01-05
+6,Furniture,Tables,2224.25,662.33,5,South,2023-01-06
+7,Office Supplies,Phones,3745.81,1338.35,9,West,2023-01-07
+8,Technology,Binders,1329.22,-334.5,1,Central,2023-01-08
+9,Office Supplies,Chairs,1003.24,1253.32,9,East,2023-01-09
+10,Office Supplies,Storage,496.28,603.18,8,South,2023-01-10
+11,Office Supplies,Chairs,2198.74,-170.33,6,East,2023-01-11
+12,Office Supplies,Chairs,3473.65,322.51,7,East,2023-01-12
+13,Furniture,Binders,385.15,1055.2,3,Central,2023-01-13
+14,Office Supplies,Chairs,4584.55,460.74,1,Central,2023-01-14
+15,Technology,Phones,2267.53,1470.57,5,South,2023-01-15
+16,Furniture,Phones,1274.96,253.48,2,Central,2023-01-16
+17,Technology,Tables,559.98,999.16,5,Central,2023-01-17
+18,Technology,Storage,996.04,285.98,8,Central,2023-01-18
+19,Technology,Chairs,4679.61,1158.33,9,East,2023-01-19
+20,Technology,Chairs,3227.53,638.16,2,South,2023-01-20
+21,Furniture,Binders,2631.81,-372.98,3,West,2023-01-21
+22,Furniture,Phones,3319.85,-426.36,3,East,2023-01-22
+23,Technology,Storage,2234.8,-232.3,1,Central,2023-01-23
+24,Technology,Tables,3677.19,-472.66,8,East,2023-01-24
+25,Furniture,Phones,333.81,-349.28,6,Central,2023-01-25
+26,Furniture,Tables,2873.58,883.43,8,Central,2023-01-26
+27,Furniture,Binders,877.37,568.69,9,East,2023-01-27
+28,Office Supplies,Binders,688.81,999.82,5,South,2023-01-28
+29,Office Supplies,Chairs,1775.21,1326.33,3,Central,2023-01-29
+30,Office Supplies,Storage,549.82,670.3,5,South,2023-01-30
+31,Technology,Tables,561.37,952.24,5,West,2023-01-31
+32,Office Supplies,Phones,1625.93,1014.16,5,Central,2023-02-01
+33,Technology,Binders,4899.6,255.7,3,South,2023-02-02
+34,Technology,Chairs,959.12,-17.83,4,South,2023-02-03
+35,Office Supplies,Chairs,184.09,-89.91,9,West,2023-02-04
+36,Technology,Tables,3840.49,2.88,9,South,2023-02-05
+37,Office Supplies,Binders,4053.87,49.46,2,South,2023-02-06
+38,Office Supplies,Storage,1796.89,-85.54,8,West,2023-02-07
+39,Furniture,Binders,2376.9,1256.44,8,Central,2023-02-08
+40,Office Supplies,Tables,3283.89,1014.0,7,South,2023-02-09
+41,Furniture,Tables,335.49,-406.21,8,South,2023-02-10
+42,Office Supplies,Binders,4750.81,37.34,3,South,2023-02-11
+43,Office Supplies,Tables,4444.73,-455.63,6,East,2023-02-12
+44,Furniture,Binders,1378.38,496.33,1,West,2023-02-13
+45,Furniture,Phones,174.99,452.42,7,East,2023-02-14
+46,Office Supplies,Binders,4673.84,1162.74,1,West,2023-02-15
+47,Technology,Binders,2555.1,115.55,9,Central,2023-02-16
+48,Furniture,Tables,2742.95,1132.77,1,Central,2023-02-17
+49,Technology,Tables,3451.42,1435.95,1,South,2023-02-18
+50,Technology,Chairs,3117.67,-323.18,7,West,2023-02-19
+51,Technology,Chairs,4725.07,1083.64,2,Central,2023-02-20
+52,Furniture,Phones,4726.83,679.91,5,West,2023-02-21
+53,Technology,Chairs,4349.27,460.09,8,Central,2023-02-22
+54,Furniture,Binders,3218.38,341.07,8,East,2023-02-23
+55,Technology,Tables,4024.65,1069.34,3,Central,2023-02-24
+56,Office Supplies,Chairs,3418.12,778.72,7,East,2023-02-25
+57,Office Supplies,Chairs,2909.5,1110.09,3,Central,2023-02-26
+58,Furniture,Phones,729.65,1306.3,6,South,2023-02-27
+59,Office Supplies,Phones,4074.9,734.53,6,East,2023-02-28
+60,Office Supplies,Binders,4121.13,1460.93,3,Central,2023-03-01
+61,Technology,Tables,3167.1,716.18,7,South,2023-03-02
+62,Furniture,Phones,4120.09,773.29,3,East,2023-03-03
+63,Technology,Chairs,3292.28,609.63,8,South,2023-03-04
+64,Technology,Tables,1112.75,-318.0,4,West,2023-03-05
+65,Technology,Tables,1442.41,952.79,1,West,2023-03-06
+66,Technology,Chairs,1151.49,594.89,4,East,2023-03-07
+67,Technology,Phones,1948.57,401.82,7,Central,2023-03-08
+68,Technology,Chairs,290.92,1320.94,4,East,2023-03-09
+69,Technology,Tables,3129.44,95.92,6,South,2023-03-10
+70,Furniture,Storage,1749.12,547.2,9,Central,2023-03-11
+71,Office Supplies,Storage,3313.04,895.28,1,West,2023-03-12
+72,Technology,Binders,1988.44,1092.94,5,Central,2023-03-13
+73,Technology,Chairs,3439.91,418.69,7,West,2023-03-14
+74,Technology,Chairs,1769.06,1184.18,1,Central,2023-03-15
+75,Technology,Binders,1377.4,1037.84,4,Central,2023-03-16
+76,Technology,Binders,2530.58,-367.53,6,Central,2023-03-17
+77,Technology,Binders,3495.16,-408.28,2,South,2023-03-18
+78,Office Supplies,Tables,1806.85,741.61,5,South,2023-03-19
+79,Office Supplies,Chairs,4689.58,194.83,1,East,2023-03-20
+80,Technology,Tables,292.01,-81.74,6,East,2023-03-21
+81,Office Supplies,Binders,2147.94,659.3,6,West,2023-03-22
+82,Furniture,Chairs,4841.14,183.13,4,South,2023-03-23
+83,Technology,Tables,2785.06,574.53,8,West,2023-03-24
+84,Furniture,Tables,2175.01,420.24,4,East,2023-03-25
+85,Furniture,Binders,2885.75,669.53,8,West,2023-03-26
+86,Technology,Chairs,2922.03,300.6,8,East,2023-03-27
+87,Office Supplies,Binders,3685.07,895.34,5,South,2023-03-28
+88,Furniture,Chairs,725.68,-139.87,4,Central,2023-03-29
+89,Technology,Storage,1325.08,893.0,2,South,2023-03-30
+90,Furniture,Phones,2944.67,323.32,3,West,2023-03-31
+91,Furniture,Phones,4348.87,1248.64,3,West,2023-04-01
+92,Furniture,Phones,2853.15,530.47,4,South,2023-04-02
+93,Furniture,Binders,1269.12,1446.22,4,South,2023-04-03
+94,Office Supplies,Storage,3431.24,703.87,5,East,2023-04-04
+95,Furniture,Chairs,3725.55,-52.3,4,West,2023-04-05
+96,Furniture,Tables,1267.36,1143.58,8,West,2023-04-06
+97,Furniture,Chairs,1950.87,190.17,6,South,2023-04-07
+98,Office Supplies,Tables,2718.2,195.24,6,Central,2023-04-08
+99,Furniture,Chairs,2533.15,-436.39,8,West,2023-04-09
+100,Furniture,Storage,2009.13,597.43,7,Central,2023-04-10
+101,Office Supplies,Tables,1558.41,568.85,8,South,2023-04-11
+102,Office Supplies,Binders,589.93,211.98,2,South,2023-04-12
+103,Office Supplies,Chairs,362.08,1288.43,9,East,2023-04-13
+104,Furniture,Chairs,4796.85,-242.5,1,West,2023-04-14
+105,Office Supplies,Tables,4251.0,160.2,8,Central,2023-04-15
+106,Office Supplies,Binders,1839.04,143.17,4,East,2023-04-16
+107,Furniture,Binders,4788.32,-315.42,4,West,2023-04-17
+108,Office Supplies,Storage,3416.17,462.29,5,East,2023-04-18
+109,Furniture,Binders,2464.35,875.57,8,South,2023-04-19
+110,Technology,Binders,2515.83,523.31,5,West,2023-04-20
+111,Office Supplies,Binders,508.09,-186.04,8,East,2023-04-21
+112,Technology,Phones,549.35,254.57,1,East,2023-04-22
+113,Furniture,Storage,3051.96,-494.81,9,Central,2023-04-23
+114,Office Supplies,Chairs,2813.14,1236.6,6,East,2023-04-24
+115,Furniture,Tables,1142.37,-330.97,3,West,2023-04-25
+116,Technology,Chairs,4736.35,694.56,8,West,2023-04-26
+117,Furniture,Storage,3928.35,1472.51,9,Central,2023-04-27
+118,Office Supplies,Tables,655.98,573.18,6,West,2023-04-28
+119,Office Supplies,Storage,4661.55,1348.08,7,South,2023-04-29
+120,Technology,Binders,4873.82,-27.77,1,West,2023-04-30
+121,Furniture,Tables,4980.06,1019.91,5,West,2023-05-01
+122,Office Supplies,Binders,373.77,562.53,5,East,2023-05-02
+123,Technology,Chairs,3711.47,941.03,4,East,2023-05-03
+124,Office Supplies,Chairs,2774.99,-375.32,6,West,2023-05-04
+125,Office Supplies,Tables,3558.57,-204.52,7,Central,2023-05-05
+126,Furniture,Tables,4846.39,-233.77,9,East,2023-05-06
+127,Office Supplies,Storage,3471.35,874.33,1,Central,2023-05-07
+128,Furniture,Storage,4201.12,1188.88,6,West,2023-05-08
+129,Office Supplies,Binders,4347.66,999.23,7,West,2023-05-09
+130,Technology,Tables,4208.56,-439.06,3,South,2023-05-10
+131,Office Supplies,Chairs,2187.85,1234.43,8,East,2023-05-11
+132,Furniture,Storage,1190.62,208.29,5,West,2023-05-12
+133,Furniture,Storage,2043.59,294.33,9,South,2023-05-13
+134,Technology,Chairs,4470.29,-290.26,5,East,2023-05-14
+135,Office Supplies,Storage,818.36,974.81,9,West,2023-05-15
+136,Office Supplies,Binders,2615.3,-135.43,4,West,2023-05-16
+137,Technology,Tables,1242.82,627.93,9,East,2023-05-17
+138,Office Supplies,Chairs,2948.4,1181.42,5,East,2023-05-18
+139,Office Supplies,Tables,4329.38,-321.59,9,East,2023-05-19
+140,Furniture,Storage,4413.76,570.67,3,West,2023-05-20
+141,Office Supplies,Storage,1259.76,-33.57,4,West,2023-05-21
+142,Office Supplies,Chairs,4547.7,185.85,9,South,2023-05-22
+143,Technology,Binders,3000.25,447.94,6,Central,2023-05-23
+144,Technology,Phones,1816.07,210.21,2,East,2023-05-24
+145,Furniture,Chairs,3570.09,797.65,7,West,2023-05-25
+146,Office Supplies,Phones,2460.17,459.16,2,West,2023-05-26
+147,Office Supplies,Phones,1952.14,668.4,2,East,2023-05-27
+148,Office Supplies,Binders,3554.91,973.64,1,Central,2023-05-28
+149,Furniture,Phones,1318.75,615.48,3,East,2023-05-29
+150,Furniture,Phones,1718.24,673.07,6,Central,2023-05-30
+151,Technology,Binders,2228.81,628.92,8,West,2023-05-31
+152,Furniture,Phones,1343.04,257.55,9,Central,2023-06-01
+153,Office Supplies,Phones,2085.49,174.89,7,South,2023-06-02
+154,Office Supplies,Phones,2900.22,1299.29,4,West,2023-06-03
+155,Furniture,Chairs,3730.77,715.11,6,South,2023-06-04
+156,Office Supplies,Chairs,3859.25,-11.29,5,East,2023-06-05
+157,Office Supplies,Chairs,4131.67,496.5,8,East,2023-06-06
+158,Furniture,Binders,3746.64,160.7,1,East,2023-06-07
+159,Furniture,Storage,3437.09,1367.38,1,Central,2023-06-08
+160,Office Supplies,Phones,1263.78,-484.93,6,West,2023-06-09
+161,Office Supplies,Phones,2061.09,-49.33,2,East,2023-06-10
+162,Office Supplies,Binders,2440.8,230.71,5,East,2023-06-11
+163,Technology,Phones,506.17,475.62,1,West,2023-06-12
+164,Technology,Chairs,2689.01,1201.64,7,East,2023-06-13
+165,Technology,Storage,2238.05,-324.22,1,South,2023-06-14
+166,Furniture,Tables,4030.34,1111.73,4,West,2023-06-15
+167,Technology,Phones,4891.71,-388.69,9,West,2023-06-16
+168,Furniture,Chairs,2824.42,1184.63,1,West,2023-06-17
+169,Furniture,Tables,1681.16,-396.73,4,South,2023-06-18
+170,Technology,Storage,312.66,-463.52,6,West,2023-06-19
+171,Technology,Tables,4630.75,893.92,6,South,2023-06-20
+172,Technology,Chairs,4603.67,1494.51,8,West,2023-06-21
+173,Office Supplies,Tables,1339.65,1293.22,1,Central,2023-06-22
+174,Technology,Binders,3507.51,652.0,7,East,2023-06-23
+175,Office Supplies,Tables,469.63,1334.79,1,Central,2023-06-24
+176,Furniture,Phones,914.46,-489.4,7,East,2023-06-25
+177,Office Supplies,Phones,1162.36,1450.13,3,South,2023-06-26
+178,Technology,Binders,1543.02,481.5,8,Central,2023-06-27
+179,Furniture,Chairs,4979.57,945.79,3,West,2023-06-28
+180,Furniture,Phones,3514.93,1141.72,1,East,2023-06-29
+181,Furniture,Storage,1982.59,936.91,8,East,2023-06-30
+182,Office Supplies,Phones,3711.79,570.07,3,Central,2023-07-01
+183,Technology,Phones,4584.75,453.24,2,South,2023-07-02
+184,Furniture,Chairs,4797.64,1177.17,1,Central,2023-07-03
+185,Furniture,Tables,383.53,-89.84,3,South,2023-07-04
+186,Furniture,Phones,2033.16,1435.99,2,South,2023-07-05
+187,Office Supplies,Binders,623.1,921.9,2,East,2023-07-06
+188,Office Supplies,Tables,1744.73,-100.99,6,Central,2023-07-07
+189,Technology,Storage,931.43,972.49,1,Central,2023-07-08
+190,Office Supplies,Chairs,3269.56,559.68,2,South,2023-07-09
+191,Furniture,Storage,2002.52,914.46,6,Central,2023-07-10
+192,Technology,Tables,1224.03,1035.56,3,West,2023-07-11
+193,Furniture,Tables,1403.1,-325.42,4,West,2023-07-12
+194,Furniture,Tables,1865.69,512.21,1,Central,2023-07-13
+195,Office Supplies,Storage,1373.75,1364.03,8,Central,2023-07-14
+196,Technology,Tables,2320.88,141.28,7,South,2023-07-15
+197,Office Supplies,Storage,258.35,687.77,7,West,2023-07-16
+198,Office Supplies,Tables,1470.84,238.46,3,West,2023-07-17
+199,Technology,Binders,2114.91,408.54,3,East,2023-07-18
+200,Furniture,Tables,3053.63,597.21,2,South,2023-07-19
